@@ -9,12 +9,13 @@ I'm a **Software Engineering student** and passionate web developer, driven by c
 
 ---
 
-- **GitHub Skyline: 🌇 [skyline.github.com/mayberosado](https://skyline.github.com/mayberosado)
+- **GitHub Skyline:** Check out my 3D contribution skyline 🌇 [skyline.github.com/mayberosado](https://skyline.github.com/mayberosado)
 
 
 ### 📊 GitHub Stats & Cool Visuals
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayberosado&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayberosado&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayberosado&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mayberosado&theme=radical)
 
 
 
@@ -22,3 +23,9 @@ I'm a **Software Engineering student** and passionate web developer, driven by c
 - **Portfolio:** [portafolio-nine-gray.vercel.app](https://portafolio-nine-gray.vercel.app)
 - **Email:** emilioaraujo15@gmail.com
 - **LinkedIn:** [linkedin.com/in/emilio-rosado-araujo](https://www.linkedin.com/in/emilio-rosado-araujo/)
+
+---
+
+ <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+ 
+ ---
