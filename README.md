@@ -13,8 +13,8 @@ I'm a **Software Engineering student** and passionate web developer, driven by c
 
 
 ### 📊 GitHub Stats & Cool Visuals
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilio-rosado&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilio-rosado&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayberosado&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayberosado&layout=compact&theme=radical)
 
 
 
