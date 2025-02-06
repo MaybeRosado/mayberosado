@@ -14,7 +14,7 @@ I'm a **Software Engineer** and passionate web developer, driven by curiosity an
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayberosado&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayberosado&layout=compact&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayberosado&layout=donut&theme=github_dark)  
 
 
 
