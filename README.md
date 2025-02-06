@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, World! I'm Emilio Rosado Araujo
 
-<!--
-**MaybeRosado/mayberosado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Who Am I?
+I'm a **Software Engineering student** and passionate web developer, driven by curiosity and the desire to create. I love solving problems, building scalable solutions, and experimenting with new ideas.
 
-Here are some ideas to get you started:
+- 🌟 Constantly learning and pushing the boundaries of what I can create.
+- 🛠️ Focused on **clean code**, **scalable architectures**, and **user-centered design**.
+- 🔍 Always on the lookout for exciting challenges and opportunities to grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- **GitHub Skyline: 🌇 [skyline.github.com/emilio-rosado](https://skyline.github.com/emilio-rosado)
+
+
+### 📊 GitHub Stats & Cool Visuals
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emilio-rosado&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilio-rosado&layout=compact&theme=radical)
+
+
+
+### 🌐 Connect With Me
+- **Portfolio:** [portafolio-nine-gray.vercel.app](https://portafolio-nine-gray.vercel.app)
+- **Email:** emilioaraujo15@gmail.com
+- **LinkedIn:** [linkedin.com/in/emilio-rosado-araujo](https://www.linkedin.com/in/emilio-rosado-araujo/)
