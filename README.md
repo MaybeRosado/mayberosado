@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Emilio Rosado Araujo
 
 ### 🧑‍💻 Who Am I?
-I'm a **Software Engineering student** and passionate web developer, driven by curiosity and the desire to create. I love solving problems, building scalable solutions, and experimenting with new ideas.
+I'm a **Software Engineer** and passionate web developer, driven by curiosity and the desire to create. I love solving problems, building scalable solutions, and experimenting with new ideas.
 
 - 🌟 Constantly learning and pushing the boundaries of what I can create.
 - 🛠️ Focused on **clean code**, **scalable architectures**, and **user-centered design**.
@@ -9,10 +9,10 @@ I'm a **Software Engineering student** and passionate web developer, driven by c
 
 ---
 
-- **GitHub Skyline:** Check out my 3D contribution skyline 🌇 [skyline.github.com/mayberosado](https://skyline.github.com/mayberosado)
 
 
-### 📊 GitHub Stats & Cool Visuals
+
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayberosado&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayberosado&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mayberosado&theme=radical)
